@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*.mp4
+*.gif
+*.avi
+*.png
+*.PNG
+*.jpg
+.vscode/
+.idea/
+.venv/
