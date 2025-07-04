@@ -23,5 +23,5 @@ python asciiart.py video.mp4
 ```
 Display a GIF:
 ```bash
-python media_to_ascii.py animation.gif
+python asciiart.py animation.gif
 ```
