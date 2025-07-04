@@ -1,5 +1,5 @@
 # Media to Terminal ASCII
-A basic Python script to display images, videos, and GIFs in the terminal as ASCII art.
+A basic Python script to display images, videos, and GIFs on the terminal as ASCII art.
 
 # Features
 It supports images (.jpg, .jpeg, .png), videos (.mp4, .webm, .avi, .mov) and gifs
@@ -25,3 +25,5 @@ Display a GIF:
 ```bash
 python asciiart.py animation.gif
 ```
+# Note
+idk if it is compatible with linux or mac (probably not), i just tested it on windows
