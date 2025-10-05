@@ -65,4 +65,4 @@ elif path_to_media.split('.')[-1].lower() == "gif":
         delay = gif.info.get('duration', 100) / 1000
         time.sleep(delay)
 else:
-    print("media type not supported.")
+    print("media type is not supported.")
