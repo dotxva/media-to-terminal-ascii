@@ -25,7 +25,7 @@ def print_frame(img):
 
     pixels_and_coloreds = list(zip(pixels, colored_pixels))
 
-    ascii_chars = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'. "
+    ascii_chars = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,^'. "
 
     def calculate_char_index(brightness):
         return int(brightness / 255 * (len(ascii_chars) - 1))
